@@ -1,0 +1,26 @@
+{
+  "name": "hello_world_bot",
+  "version": "1.0.0",
+  "description": "build sample bot with msbot",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/testmyapps19/Hello-World-Bot.git"
+  },
+  "keywords": [
+    "msbot"
+  ],
+  "author": "test",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/testmyapps19/Hello-World-Bot/issues"
+  },
+  "homepage": "https://github.com/testmyapps19/Hello-World-Bot#readme",
+  "dependencies": {
+    "botbuilder": "^3.9.1",
+    "restify": "^5.2.0"
+  }
+}
